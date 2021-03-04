@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/djtrovao/static/css/main.8cf064cf.chunk.css",
+    "main.js": "/djtrovao/static/js/main.120883bc.chunk.js",
+    "main.js.map": "/djtrovao/static/js/main.120883bc.chunk.js.map",
+    "runtime-main.js": "/djtrovao/static/js/runtime-main.23174ef5.js",
+    "runtime-main.js.map": "/djtrovao/static/js/runtime-main.23174ef5.js.map",
+    "static/js/2.56f4b0c3.chunk.js": "/djtrovao/static/js/2.56f4b0c3.chunk.js",
+    "static/js/2.56f4b0c3.chunk.js.map": "/djtrovao/static/js/2.56f4b0c3.chunk.js.map",
+    "static/js/3.52413a36.chunk.js": "/djtrovao/static/js/3.52413a36.chunk.js",
+    "static/js/3.52413a36.chunk.js.map": "/djtrovao/static/js/3.52413a36.chunk.js.map",
+    "index.html": "/djtrovao/index.html",
+    "static/css/main.8cf064cf.chunk.css.map": "/djtrovao/static/css/main.8cf064cf.chunk.css.map",
+    "static/js/2.56f4b0c3.chunk.js.LICENSE.txt": "/djtrovao/static/js/2.56f4b0c3.chunk.js.LICENSE.txt",
+    "static/media/LogoOBlack.45ab70fb.png": "/djtrovao/static/media/LogoOBlack.45ab70fb.png",
+    "static/media/facebook.4dbafd41.svg": "/djtrovao/static/media/facebook.4dbafd41.svg",
+    "static/media/instagram.611e86fd.svg": "/djtrovao/static/media/instagram.611e86fd.svg",
+    "static/media/style.scss": "/djtrovao/static/media/ky7.e0da634b.jpg",
+    "static/media/soundcloud.3d921ea3.svg": "/djtrovao/static/media/soundcloud.3d921ea3.svg",
+    "static/media/youtube.d5570f52.svg": "/djtrovao/static/media/youtube.d5570f52.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23174ef5.js",
+    "static/js/2.56f4b0c3.chunk.js",
+    "static/css/main.8cf064cf.chunk.css",
+    "static/js/main.120883bc.chunk.js"
+  ]
+}
